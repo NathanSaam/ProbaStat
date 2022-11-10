@@ -1,4 +1,4 @@
-# Théorème fondamentaux
+# Théorèmes fondamentaux
 
 ```{math}
 \newcommand\E{\mathbb{E}}
